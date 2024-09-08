@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abdullah5485
 - 👀 I’m interested in Network
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+
 
 <!---
 abdullah5485/abdullah5485 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
